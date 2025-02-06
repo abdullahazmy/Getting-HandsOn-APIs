@@ -1,0 +1,6 @@
+@APID3_HostAddress = http://localhost:5136
+
+GET {{APID3_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
